@@ -5,7 +5,7 @@
   <img style="margin-right: 8px;" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
   <img style="margin-right: 8px;" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
 </p>
-<img src="https://drive.google.com/file/d/14zWcj8ZbUuASZydxQBJLTw0if6aoCcEu/view?usp=drive_link" />
+
 CatatanKu Flutter adalah aplikasi catatan sederhana yang dibangun dengan Flutter. Proyek ini bertujuan untuk menyediakan platform yang mudah digunakan untuk membuat, menyimpan, dan mengelola catatan secara efisien. Meskipun deskripsi awal singkat, proyek ini menjanjikan fondasi yang kokoh untuk aplikasi pencatatan yang intuitif dan mudah diakses.
 
 ## Fitur Utama ✨
@@ -51,10 +51,3 @@ Kami menyambut baik kontribusi dari komunitas! Ikuti langkah-langkah ini untuk b
 4.  Push ke branch Anda: `git push origin feature/fitur-baru`
 5.  Buat Pull Request.
 
-## Lisensi 📄
-
-Lisensi proyek tidak disebutkan.
-
-
----
-README.md ini dihasilkan secara otomatis oleh [README.MD Generator](https://github.com/emRival) — dibuat dengan ❤️ oleh [emRival](https://github.com/emRival)
