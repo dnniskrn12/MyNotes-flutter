@@ -6,7 +6,7 @@
   <img style="margin-right: 8px;" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-CatatanKu Flutter adalah aplikasi catatan sederhana yang dibangun dengan Flutter. Proyek ini bertujuan untuk menyediakan platform yang mudah digunakan untuk membuat, menyimpan, dan mengelola catatan secara efisien. Meskipun deskripsi awal singkat, proyek ini menjanjikan fondasi yang kokoh untuk aplikasi pencatatan yang intuitif dan mudah diakses.
+My Notes Flutter adalah aplikasi catatan sederhana yang dibangun dengan Flutter. Proyek ini bertujuan untuk menyediakan platform yang mudah digunakan untuk membuat, menyimpan, dan mengelola catatan secara efisien. Meskipun deskripsi awal singkat, proyek ini menjanjikan fondasi yang kokoh untuk aplikasi pencatatan yang intuitif dan mudah diakses.
 
 ## Fitur Utama ✨
 
