@@ -10,15 +10,15 @@ My Notes Flutter adalah aplikasi catatan sederhana yang dibangun dengan Flutter.
 
 ## Fitur Utama ✨
 
-*   **Antarmuka Pengguna yang Intuitif:** 🤩 Desain yang ramah pengguna memastikan pengalaman yang mulus saat membuat dan mengatur catatan Anda.
-*   **Penyimpanan Lokal:** 💾 Catatan disimpan secara lokal di perangkat Anda, memastikan privasi dan aksesibilitas offline.
-*   **Ringan dan Cepat:** 🚀 Aplikasi ini dioptimalkan untuk kinerja, menyediakan pengalaman mencatat yang responsif.
+*   **Antarmuka Pengguna yang Intuitif:**  Desain yang ramah pengguna memastikan pengalaman yang mulus saat membuat dan mengatur catatan Anda.
+*   **Penyimpanan Lokal:**  Catatan disimpan secara lokal di perangkat Anda, memastikan privasi dan aksesibilitas offline.
+*   **Ringan dan Cepat:**  Aplikasi ini dioptimalkan untuk kinerja, menyediakan pengalaman mencatat yang responsif.
 
 ## Tech Stack 🛠️
 
-*   **Bahasa Pemrograman:** Dart 🎯
-*   **Framework UI:** Flutter 💙
-*   **Platform:** Android 🤖
+*   **Bahasa Pemrograman:** Dart 
+*   **Framework UI:** Flutter 
+*   **Platform:** Android 
 
 ## Instalasi & Menjalankan 🚀
 
